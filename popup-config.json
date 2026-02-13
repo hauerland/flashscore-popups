@@ -1,3 +1,20 @@
 {
-  "description": "Získejte dnes nejlepší kurzy na Livesport!!!!"
+  "livesport.cz": {
+    "ctaUrl": "https://www.seznam.cz",
+    "heading": "Special Offer for Czech Users",
+    "description": "Ty nélepší kurzy na lviesport.cz!!!!",
+    "imageUrl": "https://i.postimg.cc/DfPrH9T5/Gemini_Generated_Image_owxdroowxdroowxd.png",
+    "ctaText": "Bet Now",
+    "closeText": "No thanks",
+    "eventLabel": "sales[7Bet|desktop_LS.cz_CZ_popup]"
+  },
+  "flashscore.sk": {
+    "ctaUrl": "https://www.zoznam.sk",
+    "heading": "Slovak Special Offer",
+    "description": "Don't miss out on these stats.",
+    "imageUrl": "https://i.postimg.cc/TY2V6t2d/Gemini_Generated_Image_eezu0ueezu0ueezu.png",
+    "ctaText": "See Details",
+    "closeText": "Close",
+    "eventLabel": "sales[7Bet|desktop_FS.sk_SK_popup]"
+  }
 }
